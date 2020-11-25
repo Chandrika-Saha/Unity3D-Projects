@@ -1,0 +1,142 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     880 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\unity\CHECKERS\checking_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\unity\CHECKERS\checking_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\unity\CHECKERS\checking_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\unity\CHECKERS\checking_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\unity\CHECKERS\checking_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\unity\CHECKERS\checking_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\unity\CHECKERS\checking_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\unity\CHECKERS\checking_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\unity\CHECKERS\checking_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\unity\CHECKERS\checking_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.511 seconds
+Platform assembly: E:\unity\CHECKERS\checking_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\unity\CHECKERS\checking_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.040775 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2ba0 -> priority: 1 
+Client: SWHO|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CWHO|hiost|1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SCNN|hiost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CWHO|client|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SCNN|client
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.212695 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.999245 ms (FindLiveObjects: 0.051727 ms CreateObjectMapping: 0.059527 ms MarkObjects: 0.867462 ms  DeleteObjects: 0.020116 ms)
+
+Server: CMSG|hello
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|hiost:hello
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CMSG|hi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|client:hi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CMSG|how are you
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|hiost:how are you
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CMSG|i am fine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|client:i am fine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CWHO|host|1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SCNN|host
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CWHO|dddd|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SCNN|dddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CMSG|dddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|dddd:dddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CMSG|delo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|host:delo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CMSG|hello host
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|dddd:hello host
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CMSG|how are yoy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|dddd:how are yoy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Server: CMSG|i am fine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Client: SMSG|host:i am fine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
